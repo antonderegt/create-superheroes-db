@@ -1,3 +1,5 @@
+USE SuperheroesDb;
+
 INSERT INTO Power(Name, Description)
 VALUES ('Strength', 'Super Human Strength, great for opening jars'),
  ('Speed', 'Faster than you can blink'),

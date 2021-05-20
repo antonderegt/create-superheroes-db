@@ -1,3 +1,5 @@
+USE SuperheroesDb;
+
 ALTER TABLE Assistant
 ADD SuperheroId int;
 

@@ -1,3 +1,5 @@
+USE SuperheroesDb;
+
 CREATE TABLE Superhero (
     SuperheroId INT IDENTITY(1,1) PRIMARY KEY,
     Name VARCHAR(20),
