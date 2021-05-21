@@ -1,6 +1,7 @@
 USE SuperheroesDb;
 
-CREATE TABLE PowersPerHero (
+CREATE TABLE SuperheroPower (
+	SuperheroId int FOREIGN KEY REFERENCES Superhero(SuperheroId),
     PowerId int FOREIGN KEY REFERENCES Power(PowerId),
-	SuperheroId int FOREIGN KEY REFERENCES Superhero(SuperheroId)
+	PRIMARY KEY (SuperheroId, PowerId)
 );

@@ -2,4 +2,4 @@ USE SuperheroesDb;
 
 UPDATE Superhero
 SET Origin = 'Radio active spider'
-WHERE Name='Peter Parker'
+WHERE Name = 'Peter Parker';
