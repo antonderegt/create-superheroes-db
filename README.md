@@ -16,4 +16,4 @@ Developed by [Jasper Klingen](https://gitlab.com/jasper.klingen) and [Anton de R
 9. Delete an assistant
 
 ## Database Diagram
-To see a visual representation of the datase, see the [Database Diagram](https://gitlab.com/antonderegt/sql-assignment/-/blob/master/Diagram_SuperheroesDb.png).
+To see a visual representation of the datase, see the [Database Diagram](https://gitlab.com/antonderegt/create-superheroes-db/-/blob/master/Diagram_SuperheroesDb.png).
