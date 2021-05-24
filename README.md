@@ -14,3 +14,6 @@ Developed by [Jasper Klingen](https://gitlab.com/jasper.klingen) and [Anton de R
 7. Create linking table for Superhero Powers
 8. Update a Superhero
 9. Delete an assistant
+
+## Database Diagram
+To see a visual representation of the datase, see the [Database Diagram](https://gitlab.com/antonderegt/sql-assignment/-/blob/master/Diagram_SuperheroesDb.png).
